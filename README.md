@@ -2,8 +2,10 @@
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
-If you want to learn more about Quarkus, please visit its website: https://quarkus.io/ .
-
+Hibernate User Guide: Filtering entities and associations
+```
+https://docs.jboss.org/hibernate/orm/5.4/userguide/html_single/Hibernate_User_Guide.html#pc-filtering
+```
 ## Running the application in dev mode
 
 You can run your application in dev mode that enables live coding using:
